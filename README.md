@@ -28,7 +28,7 @@ puis ajouter juste en bas les code suivante
 	$ export PATH=$PATH:/usr/local/go/bin:$GOPATH/bin
 ```
 enregstrer puis sorter
-et maintenant vous pouvez taper $ go env pour voir vos midification
+et maintenant vous pouvez taper ```shell $ go env ``` pour voir vos midification
 
 ## 5 creeons un projet hello world
 taper les commande suivante
